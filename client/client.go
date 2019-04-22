@@ -1,4 +1,4 @@
-/ client implements a RPC client that can connect
+// client implements a RPC client that can connect
 // to a RPC server by either using plain TCP, HTTP
 // or JSON-RPC.
 //
